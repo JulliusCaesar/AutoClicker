@@ -1,0 +1,16 @@
+COOKIE: /html/body/div/div[2]/div[15]/div[4]
+---> 10.000 COOKIES
+
+cookie segundo: /html/body/div/div[2]/div[15]/div[4]/div
+----> per second : 4,214
+
+cursores: /html/body/div/div[2]/div[19]/div[3]/div[6]/div[2]/div[3]/div[3]
+----> 22
+
+vovôs:    /html/body/div/div[2]/div[19]/div[3]/div[6]/div[3]/div[3]/div[3]
+----> 10
+
+fazendas: /html/body/div/div[2]/div[19]/div[3]/div[6]/div[4]/div[3]/div[3]
+----> 10
+
+Lógica itens: /html/body/div/div[2]/div[19]/div[3]/div[6]/div[{posicao_item}]/div[3]/div[3]

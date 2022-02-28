@@ -1,0 +1,8 @@
+[8696:11872:0227/210925.703:INFO:CONSOLE(51)] "9.3", source: https://s0.2mdn.net/sadbundle/1589423614546954037/cs2101g0028_003_607136_BR_cs_SB_dir_FY23Q1_oa_business-solutions-clicks_isg_300x250_ii/607136_300x250.js (51)
+[8696:15416:0227/210925.905:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+[8696:15416:0227/210925.906:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+[8696:15416:0227/210925.906:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+[8696:11872:0227/210925.907:ERROR:device_event_log_impl.cc(214)] [21:09:25.907] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+[8696:11872:0227/210925.940:ERROR:device_event_log_impl.cc(214)] [21:09:25.941] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+[8696:15416:0227/210925.978:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+[8696:11872:0227/210926.142:INFO:CONSOLE(14478)] "[=== About to cheat in some cookies or just checking for bugs? ===]", source: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091 (14478)
